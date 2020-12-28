@@ -1,4 +1,4 @@
-# Personal Portfolio 🔥
-> https://krithikaiyer.github.io
+# Personal Portfolio 
+> https://kritikaiyeer.github.io
 
 
